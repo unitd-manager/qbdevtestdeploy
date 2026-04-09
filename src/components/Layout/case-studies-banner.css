@@ -1,0 +1,127 @@
+/* Case Studies Banner */
+.case-studies-banner {
+  background: linear-gradient(135deg, #ff9800 0%, #fb8500 100%);
+  padding: 80px 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.banner-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .banner-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+
+.banner-content {
+  color: white;
+}
+
+.banner-title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  line-height: 1.2;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .banner-title {
+    font-size: 32px;
+  }
+}
+
+.banner-description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 32px;
+  color: rgba(255, 255, 255, 0.95);
+  max-width: 500px;
+}
+
+.banner-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: white;
+  color: #ff9800;
+  padding: 14px 28px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.banner-cta-btn:hover {
+  background-color: #f5f5f5;
+  transform: translateX(4px);
+}
+
+.btn-arrow {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.banner-cta-btn:hover .btn-arrow {
+  transform: translateX(4px);
+}
+
+/* Banner Image */
+.banner-image {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .case-studies-banner {
+    padding: 60px 20px;
+  }
+
+  .banner-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .banner-description {
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+
+  .banner-cta-btn {
+    padding: 12px 24px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .case-studies-banner {
+    padding: 40px 16px;
+  }
+
+  .banner-title {
+    font-size: 24px;
+  }
+
+  .banner-description {
+    font-size: 13px;
+  }
+}

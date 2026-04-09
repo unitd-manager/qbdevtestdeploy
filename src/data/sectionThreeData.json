@@ -1,0 +1,36 @@
+{
+  "section_title": "Lorem ipsum consectetur",
+  "section_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+  "cards": [
+    {
+      "title": "Seddo Eiusmod Tempor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "color": "bg-light"
+    },
+    {
+      "title": "Eiusmod Tempor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "color": "bg-white"
+    },
+    {
+      "title": "Tempor Seddo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "color": "bg-light"
+    },
+    {
+      "title": "Tempor Seddo & Eiusmod",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+      "color": "bg-light"
+    },
+    {
+      "title": "Tempor Seddo & Eiusmod",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+      "color": "bg-light"
+    },
+    {
+      "title": "Seddo Eiusmod Tempor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "color": "bg-light"
+    }
+  ]
+}

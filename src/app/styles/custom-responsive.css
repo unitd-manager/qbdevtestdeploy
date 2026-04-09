@@ -1,0 +1,1759 @@
+@media screen and (min-width:768px) {
+    .icon-h3 {
+        font-size: 1.67vw;
+        line-height: 2.08vw;
+        letter-spacing: -0.03vw;
+        margin-bottom: 0.69vw;
+    }
+
+    .container {
+        max-width: 79.72vw;
+        border-left: 1px dashed #CCCCCC;
+        border-right: 1px dashed #CCCCCC;
+    }
+
+    .show-for-small {
+        display: none;
+    }
+
+    .our-Benefits-info {
+        padding: 0vw 0;
+    }
+
+    .our-Benefits-info::after,
+    .our-Benefits-info::before {
+        top: 0.69vw;
+        width: 8.82vw;
+        height: calc(100% - 0.69vw);
+        background-size: 1.25vw 1.25vw;
+    }
+
+    .benefites-list {
+        gap: 2.22vw;
+        /* margin: 2.78vw 0; */
+    }
+
+    .benefites-list-itmes {
+        padding: 2.78vw 1.81vw 2.78vw 0.69vw;
+    }
+
+    .benefites-list-itmes img {
+        margin-bottom: 2.22vw;
+        height: 2.78vw;
+    }
+
+    .benefites-list-itmes h3 {
+        font-size: 1.67vw;
+        line-height: 2.08vw;
+        letter-spacing: -0.03vw;
+        margin-bottom: 0.83vw;
+    }
+
+    .benefites-list-itmes p {
+        font-size: 1.11vw;
+        line-height: 1.67vw;
+    }
+
+
+    .our-searvice-data {
+        padding-top: 3.47vw;
+        padding-bottom: 3.47vw;
+    }
+
+    .top-title-info {
+        padding: 0 0 0.69vw;
+    }
+
+    .our-Benefits-info .top-title-info {
+        padding-bottom: 0px;
+    }
+
+    .our-Benefits-info .top-title-info .desc {
+        padding-bottom: 1.39vw;
+    }
+
+    .our-searvice-info .top-title-info {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .serv-list-item {
+        padding: 1.11vw 1.39vw;
+    }
+
+    .serv-iocn {
+        width: 3.47vw;
+        height: 3.47vw;
+        line-height: 3.19vw;
+        margin-right: 1.39vw;
+    }
+
+    .serv-iocn img {
+        height: 2.15vw;
+    }
+
+    .serv-list-heading h4 {
+        font-size: 1.09vw;
+        line-height: 1.53vw;
+    }
+
+    .right-arrow-iocn svg {
+        width: 1.53vw;
+        height: 1.53vw;
+    }
+
+    .serv-desc-title h4 {
+        font-size: 1.67vw;
+        line-height: 2.08vw;
+        letter-spacing: -0.03vw;
+        max-width: 26.04vw;
+    }
+
+    .btn-more-info {
+        padding: 0.56vw 1.11vw;
+        font-size: 0.97vw;
+        gap: 0.69vw;
+        letter-spacing: -0.02vw;
+    }
+
+    .btn-more-info span svg {
+        font-size: 1.32vw;
+        height: 1.6vw;
+    }
+
+    .serv-desc {
+        max-width: 26.04vw;
+        margin-top: 0.83vw;
+    }
+
+    .serv-desc p {
+        font-size: 1.11vw;
+        line-height: 1.67vw;
+        margin: 0 0 0.9vw;
+    }
+
+    .serv-media-right-info {
+        max-width: 46.11vw;
+        height: 28.61vw;
+        width: 100%;
+    }
+
+    .serv-media-right-info video {
+        height: 28.75vw;
+    }
+
+    /***/
+
+    /**/
+    .award-top-title {
+        padding: 1.94vw 0;
+    }
+
+    .award-top-title h2 {
+        font-size: 1.67vw;
+        line-height: 1.67vw;
+        letter-spacing: -0.02vw;
+    }
+
+    .our-award-list {
+        margin: 0.69vw 0 0;
+    }
+
+    .our-award-itmes {
+        padding: 1.6vw 0;
+    }
+
+    .our-award-itmes .img-div {
+        max-width: 13.89vw;
+    }
+
+    /**/
+    .our-award-info-data {
+        padding-bottom: 3.19vw;
+    }
+
+    .winner-logo-info {
+        padding-left: 2.78vw;
+    }
+
+    .winner-logo-info h3 {
+        font-size: 3.47vw;
+        line-height: 4.17vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .winner-cont-info {
+        padding-top: 2.78vw;
+        padding-bottom: 2.78vw;
+    }
+
+    .winner-media {
+        padding: 1.32vw 2.99vw;
+        max-width: 12.57vw;
+        height: 12.5vw;
+    }
+
+    /**/
+    .our-partner-left-logo {
+        padding: 3.06vw 0;
+        gap: 1.88vw;
+    }
+
+    .our-partner-left-logo .partner-media {
+        max-width: 20.83vw;
+        height: 6.81vw;
+    }
+
+    .our-partner-left-logo h4 {
+        font-size: 1.74vw;
+        line-height: 2.36vw;
+        letter-spacing: -0.02vw;
+        max-width: 20.83vw;
+    }
+
+    .partner-list-info {
+        padding: 1.67vw 2.78vw;
+        gap: 1.04vw;
+    }
+
+    .partner-list-info h3 {
+        font-size: 1.67vw;
+        line-height: 1.67vw;
+        letter-spacing: -0.02vw;
+    }
+
+    .partner-list-info p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+    }
+
+    .partner-list-info .work-list {
+        margin: 0px 0 0 -1.11vw;
+    }
+
+    .partner-list-info .work-list li {
+        padding: 0 1.11vw;
+        font-size: 1.39vw;
+        line-height: 2.5vw;
+    }
+
+    .partner-list-info .work-list li:not(:last-child)::after {
+        width: 0.14vw;
+        height: calc(100% - 1.39vw);
+        top: 0.69vw;
+    }
+
+    .cat-knowmore {
+        max-width: 10.14vw;
+        font-size: 1vw;
+        height: 2.57vw;
+    }
+
+    .partner-media img {
+        max-width: 28.54vw;
+    }
+
+    /**/
+
+    .our-blog-post-heading {
+        padding-top: 0vw;
+        padding-bottom: 2.78vw;
+    }
+
+    .our-blog-post-heading h3 {
+        max-width: 43.68vw;
+    }
+
+    .our-blog-post-heading p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+        max-width: 65.28vw;
+    }
+
+    .blog-list-info {
+        margin: 0 0 0.56vw;
+    }
+
+    .blog-list-info .post-date {
+        font-size: 1.11vw;
+        line-height: 1.67vw;
+    }
+
+    .bloglist-title-info {
+        max-width: 23.75vw;
+    }
+
+    .bloglist-title-info h4 {
+        font-size: 1.67vw;
+        line-height: 2.08vw;
+        letter-spacing: -0.03vw;
+        margin: 0 0 2.08vw;
+        min-height: 8.33vw;
+    }
+
+    .upcoming-bloglist-itmes {
+        padding: 2.78vw 1.81vw;
+    }
+
+    .our-upcoming-bloglist .slick-dots li {
+        margin: 0 0.14vw;
+    }
+
+    .our-upcoming-bloglist .slick-dots {
+        bottom: -3.4vw;
+    }
+
+    .our-upcoming-bloglist .slick-dots li {
+        width: 1.39vw;
+        height: 1.39vw;
+    }
+
+    .our-upcoming-bloglist .slick-dots li button::before {
+        font-size: 1.04vw;
+        width: 0.97vw;
+        height: 0.97vw;
+        top: 0.17vw;
+        left: 0.17vw;
+    }
+
+    .our-upcoming-bloglist .slick-dots li.slick-active button::before {
+        font-size: 1.04vw;
+    }
+
+
+    .footer-mbg-top-header .main-title {
+        margin: 0 0 1.04vw;
+    }
+
+    .footer-mbg-top-header p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+        margin: 0 0 1.39vw;
+    }
+
+    .footer-mbg-top-header {
+
+        padding: 2.78vw 0px;
+    }
+
+    .footer-mbg-info .grid-overlay-box {
+        width: 10.28vw;
+    }
+
+    .dot-grid {
+        width: 10.14vw;
+    }
+
+    .feature-list-inner {
+        padding: 3.47vw 0;
+    }
+
+    .top-heading-info {
+        max-width: 71.11vw;
+    }
+
+    .top-heading-info h3 {
+        font-size: 3.47vw;
+        line-height: 3.47vw;
+        letter-spacing: -0.13vw;
+        margin: 0 0 1.39vw;
+    }
+
+    .top-heading-info {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+    }
+
+    .fru-info-list {
+        margin-bottom: 2.78vw;
+    }
+
+    .fr-description {
+        margin-bottom: 2.08vw;
+    }
+
+    .un-order-list-data li::before {
+        left: -1.39vw;
+    }
+
+    .fr-list-of-data .list-items {
+        padding-left: 1.88vw;
+    }
+
+    .fr-list-of-data .list-items li {
+        margin-bottom: 1.39vw;
+    }
+
+    .fr-list-of-data .list-items li h5 {
+        font-size: 1.39vw;
+        margin: 0 0 0.56vw;
+    }
+
+    .fr-list-of-data .list-items li p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+    }
+
+    .our-media-info img {
+        height: 45.14vw;
+    }
+
+    .fr-description p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+    }
+
+
+    .footer-mbg-info .container-fluid {
+        padding-right: 11.11vw;
+    }
+
+
+    /**About page**/
+
+    .about-content-box-row {
+        min-height: 40.63vw;
+    }
+
+    .ab-banner-desc {
+        max-width: 33.89vw;
+        padding: 0 1.04vw;
+    }
+
+    .ab-banner-desc .sub-title {
+        font-size: 1.39vw;
+        line-height: 1.81vw;
+        margin-bottom: 2.08vw;
+    }
+
+    .ab-banner-desc p {
+        font-size: 1.11vw;
+        line-height: 1.67vw;
+    }
+
+    /**/
+
+    .about-awards-top {
+        gap: 5.56vw;
+        padding: 0 0 3.98vw;
+    }
+
+    .awards-left-content {
+        padding: 1.39vw 2.43vw;
+    }
+
+    .awards-media {
+        width: calc(100% - 50.56vw);
+        gap: 3.47vw;
+    }
+
+    .about-awards-medialist {
+        gap: 3.47vw;
+    }
+
+    .partner-info-desc {
+        max-width: 32.19vw;
+        margin-right: 4.6vw;
+    }
+
+    .partner-info-desc img {
+        margin: 0 0 1.39vw;
+        max-width: 80%;
+    }
+
+    .partner-info-desc h3 {
+        font-size: 2.78vw;
+        line-height: 4.17vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .partner-info-desc p {
+        font-size: 1.11vw;
+        line-height: 1.81vw;
+    }
+
+    .cr-media-info img {
+        max-width: 100%;
+        height: 24.31vw;
+
+    }
+
+    /**/
+    .cop-top-title h3 {
+        font-size: 1.67vw;
+        line-height: 1.67vw;
+        letter-spacing: -0.02vw;
+    }
+
+    .companies-list {
+        margin: 2.08vw 0 0;
+    }
+
+    .companies-list-items {
+        padding: 0.28vw 5.56vw;
+        height: 10.42vw;
+    }
+
+    /**/
+
+.our-team-members .main-desc p{ 
+    padding-bottom: 1.39vw;
+}
+    .leadership-info-desc {
+        gap: 0.69vw;
+    }
+
+    .leadership-title {
+        padding: 2.78vw 2.08vw;
+        width: calc(100% - 25.69vw);
+    }
+
+    .leadership-title h4 {
+        font-size: 2.08vw;
+        line-height: 4.17vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .leadership-desc {
+        padding: 0 2.08vw;
+    }
+
+    .leadership-desc p {
+        font-size: 1.11vw;
+        line-height: 1.67vw;
+    }
+
+    .team-list-item {
+        padding-top: 2.78vw;
+        padding-bottom: 2.78vw;
+    }
+
+    .team-list-item img {
+        margin-bottom: 2.78vw;
+    }
+
+    .team-list-item h5 {
+        font-size: 1.81vw;
+        line-height: 2.5vw;
+        letter-spacing: -0.13vw;
+        margin: 0 0 1.6vw;
+    }
+
+    .team-list-item label {
+        font-size: 1.11vw;
+        line-height: 1.11vw;
+        margin: 0 0 1.6vw;
+    }
+
+    .team-list-item .linkedin-icon img {
+        width: 2.08vw;
+        height: 2.08vw;
+    }
+
+    /**/
+    .company-main-desc {
+        padding: 0 1.04vw;
+        margin: 1.39vw 0 0.69vw;
+    }
+
+    .company-list-itmes {
+        margin: 0.49vw 0;
+        padding: 0 1.04vw;
+    }
+
+    .our-company-media img {
+        max-width: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .company-list-itmes img {
+        margin: 0 0 0.84vw;
+        height: 2.43vw;
+    }
+
+    .company-list-itmes h5 {
+        font-size: 1.39vw;
+        margin: 0 0 0.84vw;
+    }
+
+    .company-list-itmes p {
+        font-size: 1.05vw;
+        line-height: 1.2vw;
+    }
+
+    /****/
+    .about-grid-layout .top-section .main-content {
+        padding: 2.78vw 0px 1.39vw;
+    }
+    .about-grid-layout .main-title {
+        padding-bottom: 1.39vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .about-grid-layout .description {
+        padding-bottom: 1.39vw;
+        max-width: 63.19vw;
+    }
+
+    .about-grid-layout .card-col h2 {
+        font-size:2.78vw;
+        line-height: 3.47vw;
+        padding-bottom: 1.39vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .about-grid-layout .card-col h3 {
+        font-size: 2.08vw;
+        line-height: 4.17vw;
+        letter-spacing: -0.13vw;
+    }
+
+    .about-grid-layout .card-col h4 {
+        padding-bottom: 1.39vw;
+    }
+
+    .about-grid-layout .card-col h5 {
+        padding-bottom: 1.39vw;
+        font-size: 1.39vw;
+        line-height: 1.81vw; 
+    }
+
+    .about-grid-layout .card-col ul li {
+        padding-left: 1.94vw;
+        margin-bottom: 0.69vw;
+    }
+
+    .about-grid-layout .card-col ul li::before {
+        top: 0.35vw;
+        width: 1.04vw;
+        height: 1.04vw;
+    }
+
+    .about-grid-layout .content-block {
+            padding: 2.78vw 2.78vw 1.39vw 2.78vw;
+    }
+    .about-grid-layout .card-col ul li {
+    font-size: 1.11vw;
+    line-height: 1.6vw;
+    padding-left: 1.94vw;
+    }
+
+    /**768**/
+}
+
+@media (min-width: 992px) {}
+
+@media screen and (min-width:1600px) {
+    .icon-h3 {
+        font-size: 24px;
+        line-height: 30px;
+        letter-spacing: -0.48px;
+        margin-bottom: 10px;
+    }
+
+    .container {
+        max-width: 1351px;
+    }
+
+
+    .benefites-list {
+        gap: 35px;
+        /* margin: 40px 0px 0px 0px; */
+    }
+
+    .benefites-list-itmes {
+        padding: 40px 26px 40px 10px;
+    }
+
+    .benefites-list-itmes img {
+        margin-bottom: 32px;
+        height: 40px;
+    }
+
+    .benefites-list-itmes h3 {
+        font-size: 24px;
+        line-height: 30px;
+        letter-spacing: -0.48px;
+        margin-bottom: 12px;
+    }
+
+    .benefites-list-itmes p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /**/
+
+
+    /**/
+    .our-searvice-data {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .top-title-info {
+        padding: 0 0 10px;
+    }
+
+    .our-Benefits-info .top-title-info {
+        padding-bottom: 0px;
+    }
+
+    .our-Benefits-info .top-title-info .desc {
+        padding-bottom: 20px;
+    }
+
+    .serv-list-item {
+        padding: 16px 20px;
+    }
+
+    .serv-iocn {
+        width: 50px;
+        height: 50px;
+        line-height: 46px;
+        margin-right: 20px;
+    }
+
+    .serv-list-heading h4 {
+        font-size: 15.75px;
+        line-height: 22px;
+    }
+
+    .right-arrow-iocn svg {
+        width: 22px;
+        height: 22px;
+    }
+
+    .serv-desc-title h4 {
+        font-size: 24px;
+        line-height: 30px;
+        letter-spacing: -0.48px;
+        max-width: 375px;
+    }
+
+    .serv-iocn img {
+        height: 31px;
+    }
+
+    .btn-more-info {
+        padding: 8px 16px;
+        font-size: 14px;
+        gap: 10px;
+        letter-spacing: -0.28px;
+    }
+
+    .btn-more-info span svg {
+        font-size: 19px;
+        height: 23px;
+    }
+
+    .serv-desc {
+        max-width: 375px;
+        margin-top: 12px;
+    }
+
+    .serv-desc p {
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0 0 13px;
+    }
+
+    .serv-media-right-info video {
+        height: 414px;
+    }
+
+    /***/
+
+    /**/
+    .award-top-title {
+        padding: 28px 0;
+    }
+
+    .award-top-title h2 {
+        font-size: 24px;
+        line-height: 24px;
+        letter-spacing: -0.32px;
+    }
+
+    .our-award-list {
+        margin: 10px 0 0;
+    }
+
+    .our-award-itmes {
+        padding: 23px 0;
+    }
+
+    .our-award-itmes .img-div {
+        max-width: 200px;
+    }
+
+    /**/
+    .our-award-info-data {
+        padding-bottom: 46px;
+    }
+
+    .winner-logo-info {
+        padding-left: 40px;
+    }
+
+    .winner-logo-info h3 {
+        font-size: 50px;
+        line-height: 60px;
+        letter-spacing: -1.92px;
+    }
+
+    .winner-cont-info {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .winner-media {
+        padding: 0px 0px;
+        max-width: 181px;
+        height: 180px;
+    }
+
+    /**/
+    .our-partner-left-logo {
+        padding: 44px 0;
+        gap: 27px;
+    }
+
+    .our-partner-left-logo .partner-media {
+        max-width: 300px;
+        height: 98px;
+    }
+
+    .our-partner-left-logo h4 {
+        font-size: 25px;
+        line-height: 34px;
+        letter-spacing: -0.32px;
+        max-width: 300px;
+    }
+
+    .partner-list-info {
+        padding: 24px 40px;
+        gap: 15px;
+    }
+
+    .partner-list-info h3 {
+        font-size: 24px;
+        line-height: 24px;
+        letter-spacing: -0.32px;
+    }
+
+    .partner-list-info p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .partner-list-info .work-list {
+        margin: 0px 0 0 -16px;
+    }
+
+    .partner-list-info .work-list li {
+        padding: 0 16px;
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .partner-list-info .work-list li:not(:last-child)::after {
+        width: 2px;
+        height: calc(100% - 20px);
+        top: 10px;
+    }
+
+    .cat-knowmore {
+        max-width: 160px;
+        font-size: 14px;
+        height: 37px;
+
+    }
+
+    .partner-media img {
+        max-width: 411px;
+    }
+
+    /**/
+
+    .our-blog-post-heading {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .our-blog-post-heading {
+        max-width: 629px;
+        width: 100%;
+
+    }
+
+    .our-blog-post-heading p {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: 940px;
+        width: 100%;
+    }
+
+    .blog-list-info {
+        margin: 0 0 8px;
+    }
+
+    .blog-list-info .post-date {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .bloglist-title-info {
+        max-width: 342px;
+    }
+
+    .bloglist-title-info h4 {
+        font-size: 24px;
+        line-height: 30px;
+        letter-spacing: -0.48px;
+        margin: 0 0 30px;
+        min-height: 120px;
+    }
+
+    .upcoming-bloglist-itmes {
+        padding: 40px 26px;
+    }
+
+    .our-upcoming-bloglist .slick-dots li {
+        margin: 0 2px;
+    }
+
+    .our-upcoming-bloglist .slick-dots {
+        bottom: -49px;
+    }
+
+    .our-upcoming-bloglist .slick-dots li {
+        width: 20px;
+        height: 20px;
+    }
+
+    .our-upcoming-bloglist .slick-dots li button::before {
+        font-size: 15px;
+        width: 14px;
+        height: 14px;
+        top: 2px;
+        left: 2.5px;
+    }
+
+    .our-upcoming-bloglist .slick-dots li.slick-active button::before {
+        font-size: 15px;
+    }
+
+    /**/
+
+    .footer-mbg-top-header .main-title {
+        margin: 0 0 15px;
+    }
+
+    .footer-mbg-top-header p {
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0 0 20px;
+    }
+
+    .footer-mbg-top-header {
+
+        padding: 40px 0px;
+    }
+
+    .footer-mbg-info .grid-overlay-box {
+        width: 275px;
+    }
+
+    .dot-grid {
+        width: 278px;
+    }
+
+    /**/
+
+    .feature-list-inner {
+        padding: 50px 0;
+    }
+
+    .top-heading-info {
+        max-width: 1024px;
+    }
+
+    .top-heading-info h3 {
+        font-size: 50px;
+        line-height: 50px;
+        letter-spacing: -1.92px;
+        margin: 0 0 20px;
+    }
+
+    .top-heading-info {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .fru-info-list {
+        margin-bottom: 40px;
+    }
+
+    .fr-description {
+        margin-bottom: 30px;
+    }
+
+    .un-order-list-data li::before {
+        left: -20px;
+    }
+
+    .fr-list-of-data .list-items {
+        padding-left: 27px;
+    }
+
+    .fr-list-of-data .list-items li {
+        margin-bottom: 20px;
+    }
+
+    .fr-list-of-data .list-items li h5 {
+        font-size: 20px;
+        margin: 0 0 8px;
+    }
+
+    .fr-list-of-data .list-items li p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .our-media-info img {
+        height: 650px;
+    }
+
+    .fr-description p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+
+    .footer-mbg-info .container-fluid {
+        padding-right: 289px;
+    }
+
+    /**About page**/
+
+    .about-content-box-row {
+        min-height: 585px;
+    }
+
+    .ab-banner-desc {
+        max-width: 488px;
+        padding: 0 15px;
+    }
+
+    .ab-banner-desc .sub-title {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 30px;
+    }
+
+    .ab-banner-desc p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /**/
+
+
+    .about-awards-top {
+        gap: 80px;
+        padding: 0 0 40px;
+    }
+
+    .awards-left-content {
+        padding: 20px 35px;
+    }
+
+    .awards-media {
+        width: calc(100% - 728px);
+        gap: 50px;
+    }
+
+    .about-awards-medialist {
+        gap: 50px;
+    }
+
+    .partner-info-desc {
+        max-width: 550px;
+        margin-right: 95px;
+    }
+
+    .partner-info-desc img {
+        margin: 0 0 20px;
+        max-width: 100%;
+    }
+
+    .partner-info-desc h3 {
+        font-size: 40px;
+        line-height: 60px;
+        letter-spacing: -1.92px;
+    }
+
+    .partner-info-desc p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .cr-media-info img {
+        max-width: 100%;
+        height: 400px;
+    }
+
+    .cop-top-title h3 {
+        font-size: 24px;
+        line-height: 24px;
+        letter-spacing: -0.32px;
+    }
+
+    .companies-list {
+        margin: 30px 0 0;
+    }
+
+    .companies-list-items {
+        padding: 4px 80px;
+        height: 150px;
+    }
+
+    /**/
+
+    .leadership-info-desc {
+        gap: 10px;
+    }
+.our-team-members .main-desc p{ 
+    padding-bottom: 20px;
+}
+    .leadership-title {
+        padding: 40px 30px;
+        width: calc(100% - 370px);
+    }
+
+    .leadership-title h4 {
+        font-size: 30px;
+        line-height: 60px;
+        letter-spacing: -1.92px;
+    }
+
+    .leadership-desc {
+        padding: 0 30px;
+    }
+
+    .leadership-desc p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .team-list-item {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .team-list-item img {
+        margin-bottom: 40px;
+    }
+
+    .team-list-item h5 {
+        font-size: 26px;
+        line-height: 26px;
+        letter-spacing: -1.92px;
+        margin: 0 0 23px;
+    }
+
+    .team-list-item label {
+        font-size: 16px;
+        line-height: 16px;
+        margin: 0 0 23px;
+    }
+
+    .team-list-item .linkedin-icon img {
+        width: 30px;
+        height: 30px;
+    }
+
+    /**/
+    .company-main-desc {
+        padding: 0 15px;
+        margin: 20px 0 10px;
+    }
+
+    .company-list-itmes {
+        margin: 10px 0;
+        padding: 0 15px;
+    }
+
+    .company-list-itmes img {
+        margin: 0 0 15px;
+    }
+
+    .company-list-itmes h5 {
+        font-size: 20px;
+        margin: 0 0 15px;
+    }
+
+    .company-list-itmes p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+/****/
+
+.about-grid-layout .main-title {
+    padding-bottom: 20px;
+}
+
+.about-grid-layout .description {
+    padding-bottom: 20px;
+}
+
+
+.about-grid-layout .card-col h2 {
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: -1.92px;
+    padding-bottom: 20px;
+}
+
+.about-grid-layout .card-col h3 {
+    font-size: 30px;
+    line-height: 60px;
+    letter-spacing: -1.92px;
+}
+.about-grid-layout .card-col h4 {
+    padding-bottom: 20px;
+}
+.about-grid-layout .card-col h5 {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px; 
+}
+
+.about-grid-layout .card-col ul li {
+  padding-left: 28px;
+  margin-bottom: 10px;
+}
+
+.about-grid-layout .card-col ul li::before {
+  top: 5px;
+  width: 15px;
+  height: 15px;
+}
+
+.about-grid-layout .content-block {
+        padding: 40px 40px 20px 40px;
+}
+.about-grid-layout .card-col ul li {
+    font-size: 16px;
+    line-height: 23px;
+    padding-left: 28px;
+}
+    /*1600*/
+}
+
+
+@media screen and (min-width: 1600px) and (max-width: 1800px) {
+    .dot-grid {
+        width: calc(126px + (100vw - 1600px) * 0.52);
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .cat-knowmore {
+        max-width: 13.14vw;
+        font-size: 1vw;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .icon-h3 {
+        font-size: 20px;
+        line-height: normal;
+    }
+
+    .hide-for-small {
+        display: none;
+    }
+
+    .benefites-list {
+        grid-template-columns: 1fr;
+    }
+
+
+    .benefites-list {
+        margin: 0px 0;
+        padding: 0 0px;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 0;
+    }
+
+    .benefites-list-itmes {
+        padding: 30px 10px;
+
+    }
+
+    .our-Benefits-info::before {
+        left: 0;
+        width: 100%;
+        top: 0;
+        height: 60px;
+
+    }
+
+    .our-Benefits-info::after {
+        left: 0px;
+        top: auto;
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+    }
+
+
+    .benefites-list-itmes:not(:last-child)::after {
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 1px;
+        background-image: repeating-linear-gradient(to right, #CCC, #CCC 3px, transparent 3px, transparent 6px);
+        background-size: 6px 1px;
+        background-repeat: repeat-x;
+        transform: scaleX(0);
+        transform-origin: left;
+        opacity: 0;
+        transition: transform 1.4s ease, opacity 0.5s ease;
+    }
+
+    .benefites-list.animate-border .benefites-list-itmes:not(:last-child)::after {
+        transform: scaleX(1);
+        opacity: 1;
+    }
+
+    .benefites-list-itmes img {
+        height: 40px;
+        margin-bottom: 15px;
+    }
+
+    .benefites-list-itmes h3 {
+        font-size: 20px;
+        line-height: normal;
+    }
+
+    .our-searvice-data {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .serv-desc-title h4 {
+        font-size: 20px;
+    }
+
+    .btn-more-info {
+        float: left;
+    }
+
+    .right-arrow-iocn svg {
+        transform: rotate(90deg);
+    }
+
+    .serv-media-right-info {
+        margin: 15px 0;
+        height: 260px;
+        width: 100%;
+    }
+
+    .serv-media-right-info video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .serv-iocn {
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+    }
+
+    .serv-iocn img {
+        max-width: 100%;
+        height: 25px !important;
+    }
+
+    .award-top-title h2 {
+        font-size: 20px
+    }
+
+    .award-top-title {
+        padding: 20px 0;
+    }
+
+    .our-award-list {
+        margin: 0;
+    }
+
+    .our-award-list {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .our-award-itmes {
+        padding: 20px 0;
+    }
+
+    .our-award-itmes:not(:last-child)::after {
+        content: " ";
+        height: 0;
+        display: none;
+    }
+
+    .winner-cont-info {
+        margin-top: 20px;
+    }
+
+    .winner-media {
+        max-width: 150px;
+        height: 150px;
+    }
+
+    .our-partner-left-logo {
+        padding: 30px 20px;
+        flex-direction: column;
+    }
+
+    .partner-media img {
+        max-width: 170px
+    }
+
+    .our-partner-left-logo h4 {
+        font-size: 20px;
+        text-align: center;
+        line-height: normal;
+    }
+
+    .partner-list-info {
+        padding: 20px 0px;
+        gap: 10px;
+    }
+
+    .partner-list-info p {
+        padding-bottom: 0px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .partner-list-info h3 {
+        font-size: 20px
+    }
+
+    .partner-list-info .work-list li {
+        font-size: 14px;
+        padding: 0 12px;
+        line-height: 28px;
+    }
+
+    .upcoming-bloglist-itmes {
+        padding: 25px 20px;
+    }
+
+    .bloglist-title-info h4 {
+        font-size: 20px;
+        line-height: normal;
+        margin: 0;
+    }
+
+    .our-upcoming-bloglist .slick-dots {
+        bottom: -42px;
+    }
+
+    .our-blog-post-heading {
+        padding-top: 0px;
+        padding-bottom: 30px
+    }
+
+    .our-blog-post-heading h3,
+    .our-blog-post-heading p {
+        max-width: 100%;
+    }
+
+    .our-upcoming-bloglist .slick-dots li button::before {
+        top: 1.9px;
+        left: 1.9px;
+    }
+
+    .footer-mbg-info .container-fluid {
+        padding-right: 15px;
+    }
+
+    .footer-mbg-info .grid-overlay-box {
+        width: 100%;
+        height: 55px;
+    }
+
+    .footer-mbg-info .grid-overlay-box.right {
+        bottom: 0;
+        left: 0;
+        right: auto;
+        top: auto;
+    }
+
+    .footer-mbg-info .container-fluid .row .left-col-0 {
+        padding-right: 15px;
+    }
+
+
+
+    .top-heading-info h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .our-media-info {
+        margin-bottom: 20px;
+    }
+
+    .fru-info-list {
+        margin-bottom: 30px;
+    }
+
+    .winner-logo-info {
+        padding-left: 0px;
+    }
+
+    .winner-logo-info h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .home-section-six .section-head {
+        max-width: 100%;
+        padding: 40px 0px;
+    }
+
+    /****/
+    .serv-desc p {
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0 0 0px;
+        padding-bottom: 0px;
+    }
+
+    /****/
+    .our-partner-left-logo .partner-media {
+        max-width: 100%;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        text-align: center;
+    }
+
+    .home-section-four .card-col {
+        min-height: 150px;
+    }
+
+    .benefites-list-itmes p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .footer-mbg-top-header p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 0px;
+    }
+
+    .faq-section-block .section-header h3 {
+        font-size: 30px;
+        line-height: 35px;
+        letter-spacing: 0px;
+    }
+
+    .faq-section-block .accordion-item .accordion-header {
+        font-size: 18px;
+    }
+
+    .faq-section-block .accordion-item .accordion-header svg {
+        width: 10%;
+        padding-left: 5px;
+    }
+
+    .package-rate-list ul li p {
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+
+    /**About page**/
+
+    .about-content-box-row {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .ab-banner-desc p {
+        margin-bottom: 30px;
+    }
+
+    .ab-banner-desc {
+        padding: 0;
+    }
+
+    .ab-banner-media {
+        text-align: center;
+    }
+
+    .about-awards-top {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 0;
+        padding: 0 0 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .about-awards-medialist {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        gap: 18px;
+        flex-wrap: wrap;
+    }
+
+    .ab-certified-item {
+        flex: 0 0 calc(33.333% - 18px);
+        display: flex;
+        justify-content: center;
+    }
+
+    .awards-left-content h3 {
+        font-size: 29px;
+        line-height: 35px;
+    }
+
+    .awards-media {
+        width: 100%;
+        justify-content: center;
+        margin: 15px 0;
+        gap: 20px;
+    }
+
+
+    .partner-info-desc {
+        max-width: 100%;
+        margin: 0 0 30px;
+    }
+
+    .partner-info-desc img {
+        margin: 0 0 10px;
+    }
+
+    .cr-partner-info {
+        padding: 30px 0;
+    }
+
+    .partner-info-desc h3 {
+        font-size: 30px;
+    }
+
+    .cr-media-info img {
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+
+    .cop-top-title h3 {
+        font-size: 20px;
+    }
+
+    .companies-list-items {
+        padding: 4px 40px;
+    }
+
+
+    .member-top-title h3 {
+        margin-bottom: 10px;
+    }
+
+    .leadership-info-desc {
+        flex-wrap: wrap;
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+
+    .leadership-title {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .leadership-desc {
+        padding: 0 15px;
+    }
+
+    .leadership-desc p {
+        margin: 6px 0 0;
+    }
+
+    .team-list-item {
+        padding-top: 30px;
+        padding-bottom: 30px
+    }
+
+    .team-list-item img {
+        margin-bottom: 30px;
+    }
+
+    .team-list-item h5 {
+        font-size: 20px;
+        margin: 0 0 15px;
+    }
+
+    .team-list-item label {
+        margin: 0 0 15px;
+    }
+
+    .company-list-itmes p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: left;
+        ;
+    }
+
+    .company-ser-inner-list {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .our-company-media {
+        margin: 20px 0;
+    }
+        .our-company-media img {
+        height: auto;
+    }
+    /****/
+    .about-grid-layout .content-block {
+        padding: 40px 15px 20px 15px;
+    }
+    .about-grid-layout .card-col h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .about-grid-layout .card-col ul li {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+    .about-grid-layout .card-col p {
+        text-align: left;
+    }
+    .about-grid-layout .card-col::before, .about-grid-layout .card-col::after, .about-grid-layout .grid-row::before {
+        display: none;
+    }
+    .about-grid-layout .top-section .main-content {
+        padding: 40px 15px 20px;
+        text-align: left;
+    }
+}
